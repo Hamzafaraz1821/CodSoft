@@ -72,7 +72,7 @@ void Calc(void)
             cout << endl
                  << "\t\tEnter Two Numbers: ";
 
-            // error handing for if the user enters a character instead of integer:
+            // error handing for if the user enters a character instead of integer and if the denominator is 0
             while (!(cin >> num1 && cin >> num2))
             {
                 cout << endl
