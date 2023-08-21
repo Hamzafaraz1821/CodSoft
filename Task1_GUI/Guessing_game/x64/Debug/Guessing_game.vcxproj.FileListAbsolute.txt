@@ -1,4 +1,0 @@
-C:\Users\Hamza\Desktop\2022661_2022243_2022680_CS_Project\Guessing_game\Guessing_game\x64\Debug\Guessing_game.vcxproj.AssemblyReference.cache
-C:\Users\Hamza\Desktop\2022661_2022243_2022680_CS_Project\Guessing_game\Guessing_game\x64\Debug\Guessing_game.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\Hamza\Desktop\2022661_2022243_2022680_CS_Project\Guessing_game\Guessing_game\x64\Debug\Guessing_game.Form1.resources
-C:\Users\Hamza\Desktop\2022661_2022243_2022680_CS_Project\Guessing_game\Guessing_game\x64\Debug\Guessing_game.vcxproj.GenerateResource.cache
