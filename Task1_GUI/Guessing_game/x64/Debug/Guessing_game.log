@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Hamza\Desktop\2022661_2022243_2022680_CS_Project\Guessing_game\Guessing_game\Form1.h(55,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Guessing_game.vcxproj -> C:\Users\Hamza\Desktop\2022661_2022243_2022680_CS_Project\Guessing_game\x64\Debug\Guessing_game.exe
