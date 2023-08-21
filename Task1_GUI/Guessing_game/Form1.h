@@ -81,9 +81,9 @@ namespace CppCLRWinFormsProject {
 			   // 
 			   this->button1->BackColor = System::Drawing::Color::AliceBlue;
 			   this->button1->ForeColor = System::Drawing::Color::Black;
-			   this->button1->Location = System::Drawing::Point(151, 183);
+			   this->button1->Location = System::Drawing::Point(460, 44);
 			   this->button1->Name = L"button1";
-			   this->button1->Size = System::Drawing::Size(96, 40);
+			   this->button1->Size = System::Drawing::Size(96, 33);
 			   this->button1->TabIndex = 0;
 			   this->button1->Text = L"Guess";
 			   this->button1->UseVisualStyleBackColor = false;
@@ -95,10 +95,10 @@ namespace CppCLRWinFormsProject {
 			   // 
 			   this->textBoxGuess->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(255)), static_cast<System::Int32>(static_cast<System::Byte>(224)),
 				   static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			   this->textBoxGuess->Location = System::Drawing::Point(226, 44);
+			   this->textBoxGuess->Location = System::Drawing::Point(280, 51);
 			   this->textBoxGuess->Margin = System::Windows::Forms::Padding(10);
 			   this->textBoxGuess->Name = L"textBoxGuess";
-			   this->textBoxGuess->Size = System::Drawing::Size(192, 26);
+			   this->textBoxGuess->Size = System::Drawing::Size(130, 26);
 			   this->textBoxGuess->TabIndex = 1;
 			   // 
 			   // label1
@@ -107,7 +107,7 @@ namespace CppCLRWinFormsProject {
 			   this->label1->Font = (gcnew System::Drawing::Font(L"MS Reference Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				   static_cast<System::Byte>(0)));
 			   this->label1->ForeColor = System::Drawing::SystemColors::ButtonFace;
-			   this->label1->Location = System::Drawing::Point(9, 81);
+			   this->label1->Location = System::Drawing::Point(9, 170);
 			   this->label1->Name = L"label1";
 			   this->label1->Size = System::Drawing::Size(105, 29);
 			   this->label1->TabIndex = 2;
@@ -117,9 +117,9 @@ namespace CppCLRWinFormsProject {
 			   // 
 			   this->button2->BackColor = System::Drawing::Color::Orange;
 			   this->button2->ForeColor = System::Drawing::Color::Black;
-			   this->button2->Location = System::Drawing::Point(314, 384);
+			   this->button2->Location = System::Drawing::Point(541, 598);
 			   this->button2->Name = L"button2";
-			   this->button2->Size = System::Drawing::Size(98, 44);
+			   this->button2->Size = System::Drawing::Size(121, 58);
 			   this->button2->TabIndex = 3;
 			   this->button2->Text = L"Exit";
 			   this->button2->UseVisualStyleBackColor = false;
@@ -133,7 +133,7 @@ namespace CppCLRWinFormsProject {
 			   this->label2->Font = (gcnew System::Drawing::Font(L"Segoe UI Variable Display Semib", 10, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				   static_cast<System::Byte>(0)));
 			   this->label2->ForeColor = System::Drawing::SystemColors::ButtonFace;
-			   this->label2->Location = System::Drawing::Point(97, 83);
+			   this->label2->Location = System::Drawing::Point(106, 170);
 			   this->label2->Name = L"label2";
 			   this->label2->Size = System::Drawing::Size(17, 27);
 			   this->label2->TabIndex = 4;
@@ -148,7 +148,7 @@ namespace CppCLRWinFormsProject {
 			   this->label3->BorderStyle = System::Windows::Forms::BorderStyle::FixedSingle;
 			   this->label3->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				   static_cast<System::Byte>(0)));
-			   this->label3->Location = System::Drawing::Point(12, 37);
+			   this->label3->Location = System::Drawing::Point(59, 44);
 			   this->label3->Name = L"label3";
 			   this->label3->Padding = System::Windows::Forms::Padding(0, 3, 0, 3);
 			   this->label3->Size = System::Drawing::Size(174, 33);
@@ -162,7 +162,7 @@ namespace CppCLRWinFormsProject {
 			   this->AutoSize = true;
 			   this->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(0)), static_cast<System::Int32>(static_cast<System::Byte>(97)),
 				   static_cast<System::Int32>(static_cast<System::Byte>(255)));
-			   this->ClientSize = System::Drawing::Size(424, 440);
+			   this->ClientSize = System::Drawing::Size(674, 668);
 			   this->Controls->Add(this->label3);
 			   this->Controls->Add(this->label2);
 			   this->Controls->Add(this->button2);
